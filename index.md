@@ -25,8 +25,10 @@
 
 
 
-##  <i class="fa fa-briefcase" aria-hidden="true"></i> 科研及竞赛经历
+##  <i class="fa fa-book" aria-hidden="true"></i> 科研及竞赛经历
 ### <i class="fa fa-trophy" aria-hidden="true"></i>基础学科竞赛
+
+<span style="font-size: 13px;">
 
 | 赛项 | 时间 | 主办单位 |
 | :---: | :--: | :---: |
@@ -34,6 +36,8 @@
 | 第十五届大学生数学竞赛（非数学类）决赛二等奖 | 2024年4月 | 中国数学会 |
 | 全国大学生数学建模大赛湖北省二等奖 | 2024年8月 |  中国工业与应用数学学会 |
 | 第十六届大学生数学竞赛（数学A类）初赛一等奖 | 2024年11月 | 中国数学会 |
+
+</span>
 
 ### <i class="fa fa-certificate" aria-hidden="true"></i>专业学科竞赛
 
