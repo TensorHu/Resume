@@ -1,6 +1,6 @@
 # 胡哲玮| U202213821@hust.edu.cn
 
-##  <i class="fa fa-school" aria-hidden="true"></i> 教育经历
+##  <i class="fa fa-graduation-cap" aria-hidden="true"></i> 教育经历
 
 ### <i class="fa fa-university" aria-hidden="true"></i>华中科技大学
 
@@ -39,7 +39,7 @@
 
 
 
-### <i class="fa fa-chart-line" aria-hidden="true"></i>科研经历
+### <i class="fa fa-microscope" aria-hidden="true"></i>科研经历
 **2023年2月-2024年2月** **《差分水声OFDM信号的智能检测方法》** 院级大创 结题合格 
 
 ##  <i class="fa fa-tasks" aria-hidden="true"></i> 个人评价
