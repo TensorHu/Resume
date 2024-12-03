@@ -1,8 +1,8 @@
 # 胡哲玮| U202213821@hust.edu.cn
 
-##  <i class="fa fa-cogs" aria-hidden="true"></i> 教育经历
+##  <i class="fa fa-school" aria-hidden="true"></i> 教育经历
 
-### 华中科技大学
+### <i class="fa fa-university" aria-hidden="true"></i>华中科技大学
 
 * 电子信息工程, 武汉, 2022年9月 - 至今
   * **专业排名：** 3/24 **加权成绩：** 91.53
@@ -26,8 +26,7 @@
 
 
 ##  <i class="fa fa-briefcase" aria-hidden="true"></i> 科研及竞赛经历
-     
-### 基础学科竞赛
+### <i class="fa fa-trophy" aria-hidden="true"></i>基础学科竞赛
 
 | 赛项 | 时间 | 主办单位 |
 | :---: | :--: | :---: |
@@ -36,14 +35,14 @@
 | 全国大学生数学建模大赛湖北省二等奖 | 2024年8月 |  中国工业与应用数学学会 |
 | 第十六届大学生数学竞赛（数学A类）初赛一等奖 | 2024年11月 | 中国数学会 |
 
-### 专业学科竞赛
+### <i class="fa fa-certificate" aria-hidden="true"></i>专业学科竞赛
 
 
 
-### 科研经历
+### <i class="fa fa-chart-line" aria-hidden="true"></i>科研经历
 **2023年2月-2024年2月** **《差分水声OFDM信号的智能检测方法》** 院级大创 结题合格 
 
-##  <i class="fa fa-briecasfe" aria-hidden="true"></i> 个人评价
+##  <i class="fa fa-tasks" aria-hidden="true"></i> 个人评价
 
 * 有较好的学习兴趣与数理基础
 * 多次作为队长参加学科竞赛，有团队协作经验和一定的组织能力
