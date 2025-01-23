@@ -5,7 +5,7 @@
 ### <i class="fa fa-university" aria-hidden="true"></i>华中科技大学
 
 * 电子信息工程, 武汉, 2022年9月 - 至今
-  * **专业排名：** 3/24 &nbsp;&nbsp;&nbsp;&nbsp; **加权成绩：** 91.53
+  * **专业排名：** 2/30 &nbsp;&nbsp;&nbsp;&nbsp; **加权成绩：** 91.53
   * **核心专业课:** 数据结构、微机原理实验、数字信号处理、电磁场与电磁波（二）、通信电子线路、通信原理（一）、微波技术基础（二）、数字图像处理
   * **创新创业教育：**
     * **创新意识启迪：** 信息技术导论、科研创新实践
@@ -40,6 +40,53 @@
 | 赛项 | 时间 | 主办单位 |
 | :---: | :--: | :---: |
 | 全国大学生工程实践与创新能力校赛第一名 | 2024年12月 | 教育部、工信部、中国工程院 |
+
+
+### <i class="fa fa-database" aria-hidden="true"></i>综合项目 
+* **Python语言与软件工程** [基于 `Python` 的推箱子小游戏软件设计](https:/github.com/TensorHu/)
+    
+    <i class="fa fa-user-tie" aria-hidden="true"></i> **团队负责人**
+
+    <i class="fa fa-clipboard-check" aria-hidden="true"></i> **分工：** 软件基础逻辑设计与数据结构设计
+
+    <i class="fa fa-laptop-code" aria-hidden="true"></i> **项目技术栈：** `PyQt`、 `Python`、 `MySQL`、 `PyCharm`、 `VsCode`、 `Docker`、`Git`
+
+    <i class="fa fa-star" aria-hidden="true"></i> **项目评价：**
+    <span style="color: gold;">
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star-half" aria-hidden="true"></i>
+    </span>  **9/10** 
+
+基于 `B/S` 架构的智能文本标注系统软件设计
+* **软件课程设计** [基于 `B/S` 架构的智能文本标注系统软件设计](https:/github.com/TensorHu/)
+    
+    <i class="fa fa-user-tie" aria-hidden="true"></i> **团队负责人**
+
+    <i class="fa fa-clipboard-check" aria-hidden="true"></i> **分工：** 软件需求分析、接口与数据库分析、文本标注算法设计、前端接口设计、测试
+
+    <i class="fa fa-laptop-code" aria-hidden="true"></i> **项目技术栈：** 
+
+    | 分工 | 技术栈 | 
+    | :---: | :------------------------- |
+    | 前端开发 |`Vue.js+Vite`、`Element-plus`、`Vuex`、`Axios` | 
+    | 后端开发 |`Django`、`MySQL`、`Navicat`| 
+    | 算法设计 |`HanLP`、`jieba`、`xmnlp`、`Llama3-Chinese-8B-Instruct`、`Flask` |
+    | 其他 | `VsCode`、`PyCharm`、`Docker`、`Git` |
+
+    <i class="fa fa-star" aria-hidden="true"></i> **项目评价：**
+    <span style="color: gold;">
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star" aria-hidden="true"></i>
+        <i class="fa fa-star" aria-hidden="true"></i>
+    </span>
+    <span style="color: gold; font-size: 1.2em; font-weight: bold; font-family: 'Dancing Script', cursive;">
+      优
+    </span>
 
 
 ### <i class="fa fa-flask" aria-hidden="true"></i>科研经历
