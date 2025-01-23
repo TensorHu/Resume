@@ -44,13 +44,13 @@
 
 ## 课程项目与科研经历
 ### <i class="fa fa-database" aria-hidden="true"></i>综合项目 
-#### <i class="fab fa-python" aria-hidden="true"></i> **Python语言与软件工程** [基于 Python 的推箱子小游戏软件设计](https://github.com/TensorHu/)
+#### <i class="fa fa-code" aria-hidden="true"></i> **Python语言与软件工程** [基于 Python 的推箱子小游戏软件设计](https://github.com/TensorHu/)
     
-  <i class="fa fa-user-tie" aria-hidden="true"></i> **团队负责人**
+  <i class="fa fa-user" aria-hidden="true"></i> **团队负责人**
 
-  <i class="fa fa-clipboard-check" aria-hidden="true"></i> **分工：** 软件基础逻辑设计与数据结构设计
+  <i class="fa fa-tasks" aria-hidden="true"></i> **分工：** 软件基础逻辑设计与数据结构设计
 
-  <i class="fa fa-laptop-code" aria-hidden="true"></i> **项目技术栈：** `PyQt`、 `Python`、 `MySQL`、 `PyCharm`、 `VsCode`、 `Docker`、`Git`
+  <i class="fa fa-cogs" aria-hidden="true"></i> **项目技术栈：** `PyQt`、 `Python`、 `MySQL`、 `PyCharm`、 `VsCode`、 `Docker`、`Git`
 
   <i class="fa fa-star" aria-hidden="true"></i> **项目评价：**
   <span style="color: gold;">
@@ -65,11 +65,11 @@
 
 #### <i class="fa fa-globe" aria-hidden="true"></i> **软件课程设计** [基于 B/S 架构的智能文本标注系统软件设计](https://github.com/TensorHu/)
     
-  <i class="fa fa-user-tie" aria-hidden="true"></i> **团队负责人**
+  <i class="fa fa-user" aria-hidden="true"></i> **团队负责人**
 
-  <i class="fa fa-clipboard-check" aria-hidden="true"></i> **分工：** 软件需求分析、接口与数据库分析、文本标注算法设计、前端接口设计、测试
+  <i class="fa fa-tasks" aria-hidden="true"></i> **分工：** 软件需求分析、接口与数据库分析、文本标注算法设计、前端接口设计、测试
 
-  <i class="fa fa-laptop-code" aria-hidden="true"></i> **项目技术栈：** 
+  <i class="fa fa-cogs" aria-hidden="true"></i> **项目技术栈：** 
 
   | 分工 | 技术栈 | 
   | :---: | :------------------------- |
@@ -99,9 +99,9 @@
 
 ##  <i class="fa fa-flag" aria-hidden="true"></i> 学生工作与志愿服务
 
-###  <i class="fa fa-handshake" aria-hidden="true"></i> 
+###  <i class="fa fa-heart" aria-hidden="true"></i> 
 
-###  <i class="fa fa-users" aria-hidden="true"></i>  
+###  <i class="fa fa-user" aria-hidden="true"></i>  
 
   <br>
 
