@@ -63,7 +63,7 @@
 
   <br>
 
-#### <i class="fa fa-globe" aria-hidden="true"></i> **软件课程设计** [基于 B/S 架构的智能文本标注系统软件设计](https://github.com/TensorHu/)
+#### <i class="fa fa-internet-explorer" aria-hidden="true"></i> **软件课程设计** [基于 B/S 架构的智能文本标注系统软件设计](https://github.com/TensorHu/)
     
   <i class="fa fa-user" aria-hidden="true"></i> **团队负责人**
 
