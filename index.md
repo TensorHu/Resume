@@ -30,15 +30,14 @@
 
 <br>
 
-##  <i class="fa fa-book" aria-hidden="true"></i> 竞赛成绩
-### <i class="fa fa-trophy" aria-hidden="true"></i>基础学科竞赛
+## <i class="fa fa-trophy" aria-hidden="true"></i>竞赛成绩
 
 | 赛项 | 奖项 | 时间 |
 | :---: | :--: | :---: |
 | 全美大学生数学建模大赛 | M奖 | 2024年1月 |
 | 大学生数学竞赛（非数学类）| 决赛二等奖 | 2024年4月 |
 | 全国大学生数学建模大赛|省二等奖| 2024年8月 |
-| 大学生数学竞赛（数学A类）| 初赛二等奖(校第6名) | 2024年11月 | 中国数学会 |
+| 大学生数学竞赛（数学A类）| 初赛二等奖(校第6名) | 2024年11月 |
 | 全国大学生工程实践与创新能力 | 校赛第一名 | 2024年12月 |
 | 蓝桥杯EDA设计与开发 | 省赛一等奖(省第4名) | 2025年5月 |
 
@@ -99,7 +98,7 @@
 
   <br>
 
-#### <i class="fa fa-code" aria-hidden="true"></i> **硬件课程设计** [基于 国产高云FPGA的数字信号发生器设计](https://github.com/TensorHu/)
+#### <i class="fa fa-microchip" aria-hidden="true"></i> **硬件课程设计** [基于 国产高云FPGA的数字信号发生器设计](https://github.com/TensorHu/)
     
   <i class="fa fa-user" aria-hidden="true"></i> **团队负责人**
 
@@ -109,7 +108,7 @@
   
   <i class="fa fa-cogs" aria-hidden="true"></i> **关键词：** `FPGA`、`信号处理`、`SPI协议`、`UART协议`、`状态机编程`
   <i class="fa fa-star" aria-hidden="true"></i> **项目评价：**
-  
+
   <br>
 
 ### <i class="fa fa-flask" aria-hidden="true"></i>科研经历
