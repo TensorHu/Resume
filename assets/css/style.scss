@@ -10,12 +10,9 @@
 .font {
   font-family: Arial, Helvetica, sans-serif;
 }
-.font, .font * {
-  font-family: Arial, Helvetica, sans-serif;
-}
+
 .font :lang(zh), 
-.font [lang|="zh"], 
-.font .zh {
+.font [lang|="zh"] {
   font-family: STKaiti, STXingkai, "KaiTi", "楷体", serif;
 }
 
