@@ -107,6 +107,7 @@
   <i class="fa fa-info-circle" aria-hidden="true"></i> **简介**：该项目基于国产高云FPGA（Tangnano-9K HUSTEIC 板），开发一款数字信号发生器，共两路独立信号，支持正弦波、方波、三角波、锯齿波、PWM波的发生与参数设置，同时支持自定义波形产生。该信号发生器可生成AM（DSB）、FM、PM和ASK、PSK、FSK、QPSK调制信号。基于ST7789芯片与TFT显示屏、矩阵键盘，设计了一套用户友好的人机交互接口，支持从DA前端自回环检测输出波形并显示在屏幕中。
   
   <i class="fa fa-cogs" aria-hidden="true"></i> **关键词：** `FPGA`、`信号处理`、`SPI协议`、`UART协议`、`状态机编程`
+  
   <i class="fa fa-star" aria-hidden="true"></i> **项目评价：**
 
   <br>
